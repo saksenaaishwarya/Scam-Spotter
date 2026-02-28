@@ -108,7 +108,7 @@ After downloading:
 
 ## 🙋 Team Members
 
-- **Suryansh Mishra** — *Lead Developer & Data Scientist*
+- **Aishwarya Saksena** — *Lead Developer & Data Scientist*
 
 ---
 
