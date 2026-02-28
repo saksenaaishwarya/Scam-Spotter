@@ -10,11 +10,6 @@ A machine learning-powered web app that detects whether a job posting is real or
 
 ---
 
-## 🎥 Demo Video
-
-📺 **Presentation Link**: [https://www.youtube.com/your-video-link](https://www.youtube.com/watch?v=kdChsikXbNA)
-
----
 
 ## 🧠 Project Overview
 
